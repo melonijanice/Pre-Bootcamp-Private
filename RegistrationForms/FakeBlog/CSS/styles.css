@@ -5,11 +5,13 @@ body {
 .intro {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: italic;
+    display: inline-block;
+    width: 500px;
 }
 
 .profile {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
 
 .tablepattern {
